@@ -67,7 +67,7 @@ class ChatBubble extends StatelessWidget {
   final Color? shadowColor;
 
   /// Aligns the `child` widget within the bounds of the `Container`.
-  final Alignment? alignment;
+  final AlignmentGeometry? alignment;
 
   /// Empty space to inscribe inside the [child], if any, is placed inside this
   /// padding.
